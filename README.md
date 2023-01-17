@@ -1,7 +1,7 @@
 # Installing virtualbox and Debian linux on it
 
 I ran into no issues so I didn't think it was necessary to include images, I wanted to try including one, however, so here it is. 
-![Add file: Upload](smileydood.png)
+![Add file: Upload](smileyface.png)
 
 I began by going to https://www.virtualbox.org/wiki/Downloads and choosing "Windows hosts" then waiting for the file to install and running it I then opened up guide provied to my by the courses teacher which I found on https://terokarvinen.com/2021/install-debian-on-virtualbox/
 
