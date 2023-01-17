@@ -1,5 +1,7 @@
 # Installing virtualbox and Debian linux on it
 
+I ran into no issues so I didn't think it was necessary to include images, I wanted to try including one, however, so here it is.
+
 I began by going to https://www.virtualbox.org/wiki/Downloads and choosing "Windows hosts" then waiting for the file to install and running it I then opened up guide provied to my by the courses teacher which I found on https://terokarvinen.com/2021/install-debian-on-virtualbox/
 
 After running it I chose to install all dependencies and basically clicked yes until I was prompted with "install", I then proceeded. After the installation was complete I chose to Finish and launch the virtual box immediately.
@@ -11,3 +13,5 @@ After I had downloaded the iso file for the linux I opened the virtual box manag
 I then double clicked the vm I had installed and was prompted with a black screen for about 8 seconds, I was shown a desktop which included "install debian" that I double clicked. I made sure everything (mouse and keyboard) worked - they did. I chose american english as my language and set the correct timezone for Helsinki. I then chose the Finnish kebyoard layout and tested that it works. I chose to erase the disk and not encrypt it considering this is a vm on an already secured pc. I followed the instructions and chose the Master boot record considering it's required to actually boot.
 
 I checked that everythinw as correct and pressed install. The installation took ~5 minutes after which I chose to restart, I then opened the vm and booted into linux successfully, which concluded the task. After I was done I wanted to still figure out how to change my resolution to make the screen bigger, I found it on settings>display>resolution.
+
+### 
