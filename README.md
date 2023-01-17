@@ -1,4 +1,4 @@
-#Installing virtualbox and Debian linux on it
+# Installing virtualbox and Debian linux on it
 
 I began by going to https://www.virtualbox.org/wiki/Downloads and choosing "Windows hosts" then waiting for the file to install and running it
 
