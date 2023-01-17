@@ -15,4 +15,9 @@ I then double clicked the vm I had installed and was prompted with a black scree
 
 I checked that everythinw as correct and pressed install. The installation took ~5 minutes after which I chose to restart, I then opened the vm and booted into linux successfully, which concluded the task. After I was done I wanted to still figure out how to change my resolution to make the screen bigger, I found it on settings>display>resolution.
 
-### 
+### How to write a good report
+
+- The entire report has to be replicable, therefore the reporting has to be factual. You can't make stuff up as that would lead anyone following the report astray.
+- The language doesn't have to follow strict guidelines (the Haaga-Helia guidelines for short reports, for example) it can be a bit more informal, however you should always check for typos as it can hurt your credibility.
+- The report should be precise and clear, when describing what happened and at what point, you should use subheaders to improve readibility. The goal is that anyone reading it can reproduce the steps.
+- You must use proper references, not doing so might be breaking the copyright laws
